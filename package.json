@@ -1,0 +1,12 @@
+{
+	"name": "website",
+	"version": "1.0.0",
+	"description": "Official Proteo's website",
+	"main": "index.js",
+	"devDependencies": {},
+	"author": "Proteo",
+	"license": "ISC",
+	"dependencies": {
+		"firebase": "^10.7.1"
+	}
+}
